@@ -30,6 +30,7 @@ UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
 
 [compat]
 ArgParse = "1"
+Cuba = "2"
 DocStringExtensions = "0.8"
 DocumenterTools = "0.1"
 ExtendableSparse = "0.6"
